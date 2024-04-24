@@ -5,7 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Hemnath M</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://clipground.com/images/analyst-at-computer-clipart.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/HEMNATH77/HEMNATH77/assets/146712643/a014dc8e-992f-4ed9-95c0-42ad63c18383">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=Profile%20views&color=0e75b6&style=flat" alt="hemnath77" /> </p>
@@ -27,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemnath77&show_icons=true&locale=en" alt="hemnath77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
+
