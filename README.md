@@ -19,6 +19,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hemnath7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemnath7/" height="30" width="40" /></a>
 <a href="https://instagram.com/hem_bulk_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hem_bulk_77" height="30" width="40" /></a>
+<a href="https://www.google.com/imgres?q=tableau%20icon&imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Ftableau-logo.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Ftableau-software&docid=XNBU0EiN_h-_kM&tbnid=mVsR2TVKvV8BlM&vet=12ahUKEwi7psflsseGAxWf3jgGHd-ZBRMQM3oECG4QAA..i&w=2500&h=530&hcb=2&ved=2ahUKEwi7psflsseGAxWf3jgGHd-ZBRMQM3oECG4QAA" target="blank"><img align="center" src="https://github.com/HEMNATH77/HEMNATH77/assets/146712643/270d6f44-003f-46f3-8e20-484aa2483c49" alt="https://public.tableau.com/app/profile/hemnath.m" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hemnath7" target="blank"><img align="center" src="https://github.com/HEMNATH77/HEMNATH77/assets/146712643/3b56b198-f5a7-4f07-8c80-80734db74268" alt="https://www.kaggle.com/hemnath7" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
