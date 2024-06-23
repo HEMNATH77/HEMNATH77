@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1700" height="300"  src="https://segalbenz.com/hubfs/Imported_Blog_Media/SB-blog-5-research-stats_112420-550x300-3.gif#keepProtocol">
+<img align="center" alt="coding" width="1920" height="300"  src="https://segalbenz.com/hubfs/Imported_Blog_Media/SB-blog-5-research-stats_112420-550x300-3.gif#keepProtocol">
 
 <h1 align="center">Hello 😌, I'm Hemnath M</h1>
 <h3 align="center">A Data Analyst from India</h3>
