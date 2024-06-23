@@ -7,6 +7,8 @@
 🌱 I’m currently learning <a href="https://www.google.com/search?q=data+analysis&rlz=1C1CHBF_enIN1067IN1076&oq=data+analysys&gs_lcrp=EgZjaHJvbWUqDAgBEAAYChixAxiABDIGCAAQRRg5MgwIARAAGAoYsQMYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgwIBBAAGAoYsQMYgAQyDAgFEAAYChixAxiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEJNjI2OGowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8">Data Analysis</a>
 
  📫 How to reach me **hemnath089@gmail.com**
+ 
+ 💭 Ask me about Data Visualisation,Coding,Photography,Content Writting 
 
 <h3 align="left">Connect with me:</h3>
 
