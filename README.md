@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello✌🏻️, I'm Hemnath M</h1>
 <h3 align="center">A Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" height="250" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
+<img align="right" alt="coding" width="500" height="250" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=Profile%20views&color=0e75b6&style=flat" alt="hemnath77" /> </p>
 🌱 I’m currently learning <a href="https://www.google.com/search?q=data+analysis&rlz=1C1CHBF_enIN1067IN1076&oq=data+analysys&gs_lcrp=EgZjaHJvbWUqDAgBEAAYChixAxiABDIGCAAQRRg5MgwIARAAGAoYsQMYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgwIBBAAGAoYsQMYgAQyDAgFEAAYChixAxiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEJNjI2OGowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8">Data Analysis</a>
 
