@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="250" src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
+<img align="center" width="9200" src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
 
 <h1 align="center">Hello✌🏻️, I'm Hemnath M</h1>
 <h3 align="center">A Data Analyst from India</h3>
