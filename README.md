@@ -1,4 +1,4 @@
-<img align="center" width="1500" height="300" src="https://segalbenz.com/hubfs/Imported_Blog_Media/SB-blog-5-research-stats_112420-550x300-3.gif#keepProtocol">
+<img align="center" width="1000" height="300" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif">
 
 <h1 align="center">Hello 😌, I'm Hemnath M</h1>
 <h3 align="center">A Data Analyst from India</h3>
