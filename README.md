@@ -1,6 +1,6 @@
-<img align="center" width="1000" height="250" src="https://camo.githubusercontent.com/da0accfcc31aa6c62a8d2c7ce785fd454451e39c34fdaf0e1b948c378b59e691/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966">
+<img align="center" width="1000" height="250" src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
 
-<h1 align="center">Hello 😌, I'm Hemnath M</h1>
+<h1 align="center">Hello✌🏻️, I'm Hemnath M</h1>
 <h3 align="center">A Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" height="250" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=Profile%20views&color=0e75b6&style=flat" alt="hemnath77" /> </p>
@@ -30,4 +30,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
 
-<p><img align="center" src="https://github-readme-contributions-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
