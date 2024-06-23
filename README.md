@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1920" height="300"  src="https://segalbenz.com/hubfs/Imported_Blog_Media/SB-blog-5-research-stats_112420-550x300-3.gif#keepProtocol">
+<img align="center" alt="coding" width="2920"  height="250"  src="https://segalbenz.com/hubfs/Imported_Blog_Media/SB-blog-5-research-stats_112420-550x300-3.gif#keepProtocol">
 
 <h1 align="center">Hello 😌, I'm Hemnath M</h1>
 <h3 align="center">A Data Analyst from India</h3>
@@ -30,4 +30,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
 
-
+<p><img align="center" src="https://github-readme-contributions-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
