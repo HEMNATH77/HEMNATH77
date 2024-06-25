@@ -1,6 +1,9 @@
-<img align="center" width="9200" src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
+<img align="center" width="1200" height="400" src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
 
-<h1 align="center">Hello✌🏻️, I'm Hemnath M</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+😌;+I'm+Hemnath+M!;" />
+</h1>
+
 <h3 align="center">A Data Analyst from India</h3>
 <img align="right" alt="coding" width="500" height="250" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=Profile%20views&color=0e75b6&style=flat" alt="hemnath77" /> </p>
@@ -8,7 +11,9 @@
 
  📫 How to reach me **hemnath089@gmail.com**
  
- 💭 Ask me about Data Visualisation,Coding,Photography,Content Writting 
+ 💭 Ask me about Data Visualisation,Content Writting ,Coding 
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,4 +36,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemnath77&show_icons=true&locale=en" alt="hemnath77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
+
 
