@@ -1,4 +1,4 @@
-<img align="center" width="1200" height="400" src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
+<img align="center" width="1200"  src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+😌;+I'm+Hemnath+M!;" />
