@@ -1,7 +1,7 @@
 <img align="center" width="1200"  src="https://miro.medium.com/v2/resize:fit:4376/1*AUnW4zEpbfnqH1-1KmSpNw.png">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+😌;+I'm+Hemnath+M!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bitter&size=45&pause=1000&color=1247EAFF&center=true&vCenter=true&random=false&width=435&lines=Hello!+😌;This++is++Hemnath!!!;" />
 </h1>
 
 <h3 align="center">A Passionate  Data Analyst from India</h3>
