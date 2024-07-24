@@ -25,8 +25,7 @@ A passionate **Data Analyst**
 
 ![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)
 
-<p align="right">
-<img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact")
+![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact)
 
 
 [![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
