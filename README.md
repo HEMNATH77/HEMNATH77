@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Hemnath
 
 A passionate **Data Analyst**
+
 <img align="right" width="450" height="250"  src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-</br>
 
 - 🌱 I’m currently learning **Data Analytics**
 
