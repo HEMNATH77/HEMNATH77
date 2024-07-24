@@ -7,7 +7,7 @@ A passionate **Data Analyst**
 - 📫 How to reach me : **hemnath089@gmail.com**
    <p align="left">  
            
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/hemnath7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemnath7/" height="30" width="40" /></a>
+   <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemnath7/" height="30" width="40" /></a>
            <a href="https://instagram.com/hem_bulk_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hem_bulk_77" height="30" width="40" /></a>
 </p>
 
