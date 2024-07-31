@@ -31,7 +31,7 @@ A passionate **Data Analyst**
 ![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
+<p><img align="center" height ="250" width="300"src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
 
 
 
