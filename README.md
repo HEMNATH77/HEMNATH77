@@ -28,8 +28,10 @@ A passionate **Data Analyst**
 
 ![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)
 
+<p><img align="center" height ="600" width="300"src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
+
 ![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact)
 
-<p><img align="center" height ="250" width="300"src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
+
 
 [![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
