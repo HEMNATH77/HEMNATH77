@@ -20,11 +20,15 @@ A passionate **Data Analyst**
 
 <h3 align="left">Languages Known:</h3>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/00cb437d-3b7a-4038-807b-c00f5bc2ff83"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/cf354e45-7a46-4073-a0ac-26c3171dad94"/> <img height="50" width="100" src="https://github.com/user-attachments/assets/e7bdaae0-de8d-478a-9641-89f15f0702e1"/> 
+
+
 
 <h3 align="left">Tools I Use:</h3>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/27d39fd6-bb36-48f5-b86a-de49d74d10b8"/>  <img height="50" width="50" src="https://github.com/user-attachments/assets/2a5a7de3-37f9-4c84-9b7e-c4b98fb4d1c2">  <img height="50" width="50" src="https://github.com/user-attachments/assets/0361e610-8e32-41e2-b084-dbaa3c75d5e9">   <img height="50" width="70" src="https://github.com/user-attachments/assets/4d978b79-7677-4655-aa01-5058702f6a11"> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/691905ce-5eef-4972-bdf3-7f7798f36355"/>  <img height="50" width="50" src="https://github.com/user-attachments/assets/2a5a7de3-37f9-4c84-9b7e-c4b98fb4d1c2">  <img height="50" width="50" src="https://github.com/user-attachments/assets/0361e610-8e32-41e2-b084-dbaa3c75d5e9">   <img height="50" width="70" src="https://github.com/user-attachments/assets/4d978b79-7677-4655-aa01-5058702f6a11"> 
+<img height="70" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGBC3NULr8hnz4zAVW7wBcRHBlZ45lpsjZsTNSwE4qKJqlZ0En2SQHFDZcrcLmmBM2IY&usqp=CAU">
+ <img height="80" width="100" src="https://github.com/user-attachments/assets/58f75516-0f1e-4967-92cc-c706297824b8"> 
 
 ![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)
 
