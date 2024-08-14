@@ -18,6 +18,8 @@ A passionate **Data Analyst**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=%20views&color=blueviolet&style=for-the-badge" alt="hemnath77" /> </p>
 
+  <img src="https://wakatime.com/badge/user/9dec8e1b-8ebe-44ff-bac3-978088f17217.svg?style=for-the-badge" alt="hem's wakatime" />
+
 <h3 align="left">Languages Known:</h3>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/00cb437d-3b7a-4038-807b-c00f5bc2ff83"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/cf354e45-7a46-4073-a0ac-26c3171dad94"/> <img height="50" width="100" src="https://github.com/user-attachments/assets/e7bdaae0-de8d-478a-9641-89f15f0702e1"/> 
