@@ -18,7 +18,7 @@ A passionate **Data Analyst**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=%20views&color=blueviolet&style=for-the-badge" alt="hemnath77" /> </p>
 
-  <img src="https://wakatime.com/badge/user/9dec8e1b-8ebe-44ff-bac3-978088f17217.svg?style=for-the-badge" alt="hem's wakatime" />
+  
 
 <h3 align="left">Languages Known:</h3>
 
