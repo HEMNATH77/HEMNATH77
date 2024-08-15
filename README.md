@@ -34,12 +34,6 @@ A passionate **Data Analyst**
 <img height="70" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGBC3NULr8hnz4zAVW7wBcRHBlZ45lpsjZsTNSwE4qKJqlZ0En2SQHFDZcrcLmmBM2IY&usqp=CAU">
 <img height="80" width="100" src="https://github.com/user-attachments/assets/58f75516-0f1e-4967-92cc-c706297824b8"> 
 
-![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&" alt="hemnath77" /></p>
-
-![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact)
-
-
-
-[![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)   ![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact)
+![Hem 's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hemnath77).
+ [![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
