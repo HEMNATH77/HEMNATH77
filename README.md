@@ -20,7 +20,7 @@ A passionate **Data Analyst**
 
   
 
-<h3 align="left">Languages Known:</h3>
+<h3 align="left">Languages and libraries Known:</h3>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/00cb437d-3b7a-4038-807b-c00f5bc2ff83"/> <img height="50" width="70" src="https://github.com/user-attachments/assets/ca165bc0-140f-49f8-8f52-5e705df5b9fa"> <img height="50" width="50" src="https://github.com/user-attachments/assets/cf354e45-7a46-4073-a0ac-26c3171dad94"/> <img height="50" width="100" src="https://github.com/user-attachments/assets/e7bdaae0-de8d-478a-9641-89f15f0702e1"/> 
 <img height="50" width="50" src="https://github.com/user-attachments/assets/b1070533-8981-45ac-9cd2-f21dd0e00a54"> <img height="50" width="50" src="https://github.com/user-attachments/assets/c552e73b-e55e-4b6e-a865-0805766b7568"> <img height="50" width="50" src="https://github.com/user-attachments/assets/85854618-5187-4a71-a746-23166f9c944d"> 
