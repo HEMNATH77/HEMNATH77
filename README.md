@@ -34,6 +34,17 @@ A passionate **Data Analyst**
 <img height="70" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGBC3NULr8hnz4zAVW7wBcRHBlZ45lpsjZsTNSwE4qKJqlZ0En2SQHFDZcrcLmmBM2IY&usqp=CAU">
 <img height="80" width="100" src="https://github.com/user-attachments/assets/58f75516-0f1e-4967-92cc-c706297824b8"> 
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hemnath77&margin-w=8&margin-h=8&theme=onedark&no-frame=true&column=6&" alt="GitHub Trophies" width="100%" />
+</p>
+
+
+
+
+
+
+
 ![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)   ![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact)
 
 
