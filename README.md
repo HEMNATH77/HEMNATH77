@@ -34,7 +34,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
  ![jupyter](https://img.shields.io/badge/jupyter-%234285F4.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![pandas](https://img.shields.io/badge/Pandas-%234285F4.svg?style=for-the-badge&logo=Pandas&logoColor=white)  ![numpy](https://img.shields.io/badge/numpy-%234285F4.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![aws](https://img.shields.io/badge/aws-%234285F4.svg?style=for-the-badge&logo=aws&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/seaborn-%234285F4.svg?style=for-the-badge&logo=seaborn&logoColor=white)  ![powerBi](https://img.shields.io/badge/PowerBi-%234285F4.svg?style=for-the-badge&logo=MicrosoftPowerBi&logoColor=white)  ![excel](https://img.shields.io/badge/Excel-%234285F4.svg?style=for-the-badge&logo=excel&logoColor=white)   ![Tableau](https://img.shields.io/badge/Tableau-%234285F4.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
-[BeautifulSoup](https://img.shields.io/badge/BeautifuSoup-%234285F4.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white) 
 
 
 
