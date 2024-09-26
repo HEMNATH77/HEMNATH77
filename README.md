@@ -1,12 +1,10 @@
-## Hi there 👋🏻 Its me Hemnath
+<h1> Hi there 👋🏻,Its me Hemnath </h1>
+ <h3> Data Analyst</h3>
 
-### Data Analyst 
-<div><img align="right" width="450" height="270"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
-</div>
+<img align=right width = "450" height ="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"> 
 
-
-
-🎓 Bachelor of Computer Science Engineering
+ 
+🎓 Bachelor of Computer Science and Engineering
 
 ⚡ Passionate about *Analysis* and *Visualizations*
 
@@ -18,11 +16,6 @@
     Turning Coffee Into Insights Forever...✨
 
 
-     
-              
-
-
-    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=%20views&color=blueviolet&style=for-the-badge" alt="hemnath77" /> </p>
 
 
@@ -34,10 +27,13 @@
            
 
 
-<h2 align="left">:</h2>
+<h2 align="left">Techs</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,github,mysql,python,c,vscode,windows,pycharm,aws" alt="skills logos" />
-
+ ![Github](https://img.shields.io/badge/Github-%234285F4.svg?style=for-the-badge&logo=Github&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-%234285F4.svg?style=for-the-badge&logo=Windows&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Colab](https://img.shields.io/badge/GoogleColab-%234285F4.svg?style=for-the-badge&logo=google-colab&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![vscode](https://img.shields.io/badge/vscode-%234285F4.svg?style=for-the-badge&logo=vscode&logoColor=white) 
+ ![pycharm](https://img.shields.io/badge/pycharm-%234285F4.svg?style=for-the-badge&logo=pycharm&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+ ![jupyter](https://img.shields.io/badge/jupyter-%234285F4.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![pandas](https://img.shields.io/badge/Pandas-%234285F4.svg?style=for-the-badge&logo=Pandas&logoColor=white)  ![numpy](https://img.shields.io/badge/numpy-%234285F4.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![aws](https://img.shields.io/badge/aws-%234285F4.svg?style=for-the-badge&logo=aws&logoColor=white) 
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/seaborn-%234285F4.svg?style=for-the-badge&logo=seaborn&logoColor=white)  ![powerBi](https://img.shields.io/badge/PowerBi-%234285F4.svg?style=for-the-badge&logo=MicrosoftPowerBi&logoColor=white)  ![excel](https://img.shields.io/badge/Excel-%234285F4.svg?style=for-the-badge&logo=excel&logoColor=white)   ![Tableau](https://img.shields.io/badge/Tableau-%234285F4.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
 
 
 
