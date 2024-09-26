@@ -28,6 +28,9 @@ A passionate **Data Analyst**
 
 
 
+
+
+
 <h3 align="left">Tools I Use:</h3>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/691905ce-5eef-4972-bdf3-7f7798f36355"/>  <img height="50" width="50" src="https://github.com/user-attachments/assets/2a5a7de3-37f9-4c84-9b7e-c4b98fb4d1c2">  <img height="50" width="50" src="https://github.com/user-attachments/assets/0361e610-8e32-41e2-b084-dbaa3c75d5e9">    <img height="50" width="70" src="https://github.com/user-attachments/assets/33988409-3280-42eb-a4ea-5bf83cc5396a"> 
@@ -35,7 +38,8 @@ A passionate **Data Analyst**
 <img height="80" width="100" src="https://github.com/user-attachments/assets/58f75516-0f1e-4967-92cc-c706297824b8"> 
 
 
-
+# Github Tropies
+![](https://github-profile-trophy.vercel.app/?username=hemnath77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
