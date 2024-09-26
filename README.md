@@ -1,14 +1,12 @@
 ## Hi there 👋 I am Hemnath
 
-A passionate **Data Analyst**
+ **Data Analyst**
 
-<img align="right" width="450" height="250" src="https://chutpatti.com/upload/photos/2024/05/T8onstDg2q5rpy613zoo_20_6dce2d48c2c8a70dbc498b615fb01cb6_image.gif">
+<img align="right" width="450" height="270"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 
 
-🌱 I’m currently learning **Data Analytics**
 
- 💬 Ask me about *Coding* and *Analytics*
 
 ⚡ Fun fact: Your Youtube Tutorials Recommender😉.
 
@@ -18,7 +16,7 @@ A passionate **Data Analyst**
 <h3>Connect With Me</h3>
 
  <a href="mailto:hemnath089@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/hemnath7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemnath7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/hem_bulk_77"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
            
 
