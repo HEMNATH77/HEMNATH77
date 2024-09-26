@@ -1,15 +1,28 @@
-## Hi there 👋 I am Hemnath
+## Hi there 👋🏻 Its me Hemnath
 
- **Data Analyst**
-
-<img align="right" width="450" height="270"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
-
-
+### Data Analyst 
+<div><img align="right" width="450" height="270"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+</div>
 
 
 
-⚡ Fun fact: Your Youtube Tutorials Recommender😉.
+🎓 Bachelor of Computer Science Engineering
 
+⚡ Passionate about *Analysis* and *Visualizations*
+
+😄 Fun fact: Your Youtube Tutorials Recommender!!!
+
+😌 Grab me for Developing **Interactive Dashboards**!
+
+
+    Turning Coffee Into Insights Forever...✨
+
+
+     
+              
+
+
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=%20views&color=blueviolet&style=for-the-badge" alt="hemnath77" /> </p>
 
 
@@ -21,7 +34,7 @@
            
 
 
-<h2 align="left">Languages and Tools Known:</h2>
+<h2 align="left">:</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,github,mysql,python,c,vscode,windows,pycharm,aws" alt="skills logos" />
 
