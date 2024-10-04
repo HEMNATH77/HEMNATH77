@@ -40,7 +40,7 @@ href="https://www.kaggle.com/hemnath7"><img alt="Kaggle" src="https://img.shield
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234285F4.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%234285F4.svg?style=for-the-badge&logo=Seaborn&logoColor=white)  ![plotly](https://img.shields.io/badge/plotly-%234285F4.svg?style=for-the-badge&logo=plotly&logoColor=white) 
   ![powerBi](https://img.shields.io/badge/PowerBi-%234285F4.svg?style=for-the-badge&logo=MicrosoftPowerBi&logoColor=white)  ![excel](https://img.shields.io/badge/Excel-%234285F4.svg?style=for-the-badge&logo=excel&logoColor=white)   ![Tableau](https://img.shields.io/badge/Tableau-%234285F4.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
 
-[BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234285F4.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white) 
+! [BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234285F4.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white) 
 
 
 
