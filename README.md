@@ -51,7 +51,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hemnath77?ext=heatmap)](https://leetcode.com/Hemnath77)
 
 
-# GeeksForGeeks Stats
+## GeeksForGeeks Stats
  <img src="https://gfgstatscard.vercel.app/hemboow1u4" alt="GFG stats" />
 
 ## Github Tropies
