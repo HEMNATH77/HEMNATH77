@@ -23,7 +23,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hemnath089@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemnath7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hem_bulk_77)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hemboovi_17)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BE00?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hemnath7)
 
 
@@ -51,7 +51,8 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hemnath77?ext=heatmap)](https://leetcode.com/Hemnath77)
 
 
-
+# GeeksForGeeks Stats
+ <img src="https://gfgstatscard.vercel.app/hemboow1u4" alt="GFG stats" />
 
 ## Github Tropies
 ![](https://github-profile-trophy.vercel.app/?username=hemnath77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
