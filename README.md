@@ -21,12 +21,16 @@
 
 <h3>Connect With Me</h3>
 
- <a href="mailto:hemnath089@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemnath7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/hem_bulk_77"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
- <a
-href="https://www.kaggle.com/hemnath7"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%23E4405F.svg?style=for-the-badge&logo=Kaggle%20&logoColor=white" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hemnath089@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemnath7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hem_bulk_77)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BE00?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hemnath7)
 
+
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hemboow1u4-green?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/hemboow1u4/practice/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hemnath77-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Hemnath77/)
 
 
 
@@ -41,6 +45,11 @@ href="https://www.kaggle.com/hemnath7"><img alt="Kaggle" src="https://img.shield
   ![powerBi](https://img.shields.io/badge/PowerBi-%234285F4.svg?style=for-the-badge&logo=MicrosoftPowerBi&logoColor=white)  ![excel](https://img.shields.io/badge/Excel-%234285F4.svg?style=for-the-badge&logo=excel&logoColor=white)   ![Tableau](https://img.shields.io/badge/Tableau-%234285F4.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
     ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234285F4.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white) 
  ![Framer](https://img.shields.io/badge/Framer-%234285F4.svg?style=for-the-badge&logo=Framer&logoColor=white) 
+
+
+## Leetcode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Hemnath77?ext=heatmap)](https://leetcode.com/Hemnath77)
+
 
 
 
