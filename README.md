@@ -16,7 +16,7 @@
     Turning Coffee Into Insights Forever...✨
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemnath77&label=%20views&color=blueviolet&style=for-the-badge" alt="hemnath77" /> </p>
+
 
 
 <h3>Connect With Me</h3>
