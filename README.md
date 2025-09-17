@@ -61,13 +61,6 @@
 
 ## Github Stats
 
-![Hem 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemnath77&theme=dark&show_icons=true&&hide=issues,contribs)   ![Hem 's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemnath77&layout=compact&theme=dark)
-
-
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&theme=dark" /></p>
-
 
 
  
