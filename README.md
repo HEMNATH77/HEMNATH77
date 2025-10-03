@@ -62,9 +62,12 @@
 ## Github Stats
 
 
+![Hem's github Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hemnath77&theme=dark)
 
+
+![Hem's github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hemnath77&show_icons=true&locale=en&layout=compact&title_color=green&icon_color=blue&text_color=white&bg_color=0,000000,130F40)
  
-[![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
