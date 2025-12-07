@@ -48,8 +48,6 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hemnath77?ext=heatmap)](https://leetcode.com/Hemnath77)
 
 
-## GeeksForGeeks Stats
- <img src="https://gfgstatscard.vercel.app/hemboow1u4" alt="GFG stats" />
 
 ## Github Tropies
 ![](https://github-profile-trophy.vercel.app/?username=hemnath77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
