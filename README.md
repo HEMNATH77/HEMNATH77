@@ -27,9 +27,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BE00?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hemnath7)
 
 
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hemboow1u4-green?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/hemboow1u4/practice/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Hemnath77-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Hemnath77/)
 
 
