@@ -1,16 +1,10 @@
 <h1> Hey there 👋🏻,Its me Hemnath </h1>
- <h3> Data Analyst From India</h3>
+ <h4> A Computer Science and Engineering Student From India</h4>
 
 <img align=right width = "450" height ="250" src="https://99sbr.github.io/assets/gifs/code.gif"> 
 
- 
-🎓 Bachelor of Computer Science and Engineering
 
-⚡ Passionate about *Analysis* and *Visualizations*
-
-😄 Fun fact: Your Youtube Tutorials Recommender!!!
-
-😌 Grab me for Developing **Interactive Dashboards**!
+😌 Grab me for Developing fun ML Platforms !!!
 
 
     Turning Coffee Into Insights Forever...✨
