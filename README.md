@@ -49,7 +49,8 @@
 ## Github Stats
 
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemnath77&theme=github_dark)
 
- 
-![Hem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemnath77&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemnath77&show_icons=true&theme=dark&hide_border=true -->
